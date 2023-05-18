@@ -72,6 +72,16 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Psychosis Risk Outcomes Network(ProNET)
+        link: https://pronetstudy.com
+        link_text: ProNET Investigator Resource Site
+        quote: >
+          ProNET is part of an international collaboration sponsored by the United States National Institute of Mental Health
+        description: | # this will include new lines to allow paragraphs
+          Psychosis Risk Outcomes Network(ProNET) is a project of the Accelerating Medicines Partnership for Schizophrenia.
   - title: Experience
     layout: list
     content:
