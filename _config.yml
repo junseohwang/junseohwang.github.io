@@ -81,7 +81,8 @@ content:
         quote: >
           ProNET is part of an international collaboration sponsored by the United States National Institute of Mental Health
         description: | # this will include new lines to allow paragraphs
-          Psychosis Risk Outcomes Network(ProNET) is a project of the Accelerating Medicines Partnership for Schizophrenia.
+          The Psychosis Risk Outcomes Network (ProNET) is a research study that aims to better understand the causes and course of the earliest stages of psychosis, 
+          focusing on the clinical high risk syndrome that sometimes progresses to first episode psychosis.
   - title: Experience
     layout: list
     content:
