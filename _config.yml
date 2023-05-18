@@ -6,11 +6,11 @@ repository: junseohwang/junseohwang.github.io
 version: 2
 
 # Personal info
-name: Your Name
+name: Jun Seo Hwang
 title: Your job title
-email: Your email (optional)
+email: junseo97@snu.ac.kr
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +82)10-7405-3470
 # phone_title: Phone (Phone title override)
 website: https://junseohwang.github.io
 # website_title: Web (Website title override)
@@ -20,17 +20,13 @@ darkmode: false
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
+github_username:  junseohwang
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
 instagram_username: jekyll
 linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
 youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
