@@ -12,7 +12,7 @@ email: junseo97@snu.ac.kr
 # email_title: Email (Email title override)
 phone: +82) 10-7405-3470
 # phone_title: Phone (Phone title override)
-website: https://junseohwang.github.io
+# website: https://junseohwang.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -107,7 +107,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-right
-        title: St Anne's College, University of Oxford
+        title: University of Oxford
         sub_title: BA in Neuroscience
         caption: 2016 - 2019
         quote: >
