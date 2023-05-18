@@ -76,8 +76,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Psychosis Risk Outcomes Network(ProNET)
-        link: https://pronetstudy.com
-        link_text: ProNET Investigator Resource Site
+        # link: https://pronetstudy.com
+        # link_text: ProNET Investigator Resource Site
         quote: >
           ProNET is part of an international collaboration project of the Accelerating Medicines Partnership for Schizophrenia sponsored by the United States National Institute of Mental Health
         description: | # this will include new lines to allow paragraphs
@@ -100,8 +100,8 @@ content:
     content:
       - layout: top-right
         title: Seoul National University
-        sub_title: MSc in Brain and Cognitive Science
-        caption: 2021 - present
+        sub_title: MSc in Brain & Cognitive Sciences
+        caption: 2022 - present
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
