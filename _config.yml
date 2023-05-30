@@ -52,6 +52,11 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Research Interests
+    layout: list
+    content:
+        description: | # this will include new lines to allow paragraphs
+          Consciousness
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
