@@ -41,7 +41,7 @@ googlescholar_username: D847cGsAAAAJ
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: (https://mail.naver.com/v2/read/-1/9773#/viewer/image/9773/1.jpg)
+about_profile_image: ![alt text](/Downloads/profile_picture.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -54,7 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Research Interests
     layout: list
-    content: Consciousness, Psychiatric Disorders
+    content: 
+        Consciousness
+        Psychiatric Disorders
         description: | # this will include new lines to allow paragraphs
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
