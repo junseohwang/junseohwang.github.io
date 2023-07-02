@@ -55,7 +55,7 @@ content:
   - title: Research Interests
     layout: text
     content: 
-      - title: Consciousness  Psychiatric Disorder
+      - title: <mark>Consciousness</mark> <mark>Psychiatric Disorder</mark>
         description: | # this will include new lines to allow paragraphs
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -96,7 +96,7 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          ""Aberrant hyperfocusing as indicated by elevated theta phase-gamma amplitude coupling in schizophrenia patients""
+          "Aberrant hyperfocusing as indicated by elevated theta phase-gamma amplitude coupling in schizophrenia patients"
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
