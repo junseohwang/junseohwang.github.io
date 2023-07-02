@@ -16,7 +16,7 @@ phone: +82) 10-7405-3470
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: hwangju08359347
@@ -53,7 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Research Interests
-  - title: <mark>Consciousness</mark> <mark>Cognition</mark> <mark>Psychiatric Disorder</mark>
+    layout: text
+    title: <mark>##Consciousness</mark> <mark>##Cognition</mark> <mark>##Psychiatric Disorder</mark>
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
