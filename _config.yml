@@ -114,19 +114,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           The Psychosis Risk Outcomes Network (ProNET) is a research study that aims to better understand the causes and course of the earliest stages of psychosis, 
           focusing on the clinical high risk syndrome that sometimes progresses to first episode psychosis.
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: The Way to Stockholm
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | 
-          ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0yHk19MsVWM/0.jpg)](https://www.youtube.com/watch?v=0yHk19MsVWM)
-          Description of role
   - title: Education
     layout: list
     content:
@@ -157,6 +144,20 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: The Way to Stockholm
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | 
+          ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0yHk19MsVWM/0.jpg)](https://www.youtube.com/watch?v=0yHk19MsVWM)
+          <div align="center">  <img src="https://img.youtube.com/vi/0yHk19MsVWM/0.jpg">  </div>
+          Description of role
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
