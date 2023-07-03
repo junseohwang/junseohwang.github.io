@@ -131,7 +131,7 @@ content:
         caption: 2016 - 2019
         quote: >
           Short institution or course description (optional)
-        description: | ![alt text](/images/junseo.jpg)
+        description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-left
         title: Seoul Science High School
@@ -142,10 +142,9 @@ content:
             content: text
         quote: >
           Short institution or course description (optional)
-        description: | 
-          ![alt text](/images/Seoul_science_highschool.jpg)
-        # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           Description of qualification
+          ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0yHk19MsVWM/0.jpg)
   - title: Experience
     layout: list
     content:
