@@ -50,6 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    - [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0yHk19MsVWM&list=PLAGkQTD3IBkkCRKIo5PuCtWYQGe4sFrDP&index=4/0.jpg)](https://www.youtube.com/watch?v=0yHk19MsVWM&list=PLAGkQTD3IBkkCRKIo5PuCtWYQGe4sFrDP&index=4)
 
 content:
   - title: Research Interests
