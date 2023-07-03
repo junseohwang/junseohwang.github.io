@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Research Interests
     layout: text
-    content: | # ### <mark>Consciousness</mark>     Cognition     Psychiatric     Disorders Psychosis
+    content: | ### <mark>Consciousness</mark>     Cognition     Psychiatric     Disorders Psychosis
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -151,7 +151,7 @@ content:
         additional_links:
         content:
           - layout: text
-            content: ![alt text](/images/landscape-trees.jpg "Trees")
+            content: text
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
