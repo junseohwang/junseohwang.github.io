@@ -56,7 +56,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Consciousness Cognition Psychiatric Disorders Psychosis
+        title: Consciousness    Cognition     Psychiatric     Disorders Psychosis
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -143,7 +143,6 @@ content:
         title: University of Oxford
         sub_title: BA in Neuroscience
         caption: 2016 - 2019
-        caption: test
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
@@ -151,7 +150,7 @@ content:
       - layout: top-left
         title: Seoul Science High School
         caption: 2013 - 2016 
-        caption: | # ![alt text](/images/landscape-trees.jpg "Trees"
+        content: test
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
