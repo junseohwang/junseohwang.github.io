@@ -148,6 +148,7 @@ content:
       - layout: top-left
         title: Seoul Science High School
         caption: 2013 - 2016
+        image: images/Seoul_science_highschool.jpg
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
