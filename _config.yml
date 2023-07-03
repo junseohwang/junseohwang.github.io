@@ -136,10 +136,11 @@ content:
       - layout: top-left
         title: Seoul Science High School
         caption: 2013 - 2016 
+        sub_title: |
+          <div style="float: left; margin-right: 20px;">
+              <img src="https://i.namu.wiki/i/Zw2oEYjrLwBR7krjU2X1InWjtFJWxZqtVjArRnBRpBTZRHmJCB-2yLlZFYyWpLlj8WHRuiWmbI9PBbFAWwzD5g.webp" alt="IMAGE ALT TEXT HERE">
+          </div>
         additional_links:
-        content:
-          - layout: text
-            content: text
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
@@ -147,8 +148,6 @@ content:
           <div style="float: left; margin-right: 20px;">
               <img src="https://i.namu.wiki/i/Zw2oEYjrLwBR7krjU2X1InWjtFJWxZqtVjArRnBRpBTZRHmJCB-2yLlZFYyWpLlj8WHRuiWmbI9PBbFAWwzD5g.webp" alt="IMAGE ALT TEXT HERE">
           </div>
-
-          ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0yHk19MsVWM/0.jpg)
   - title: Experience
     layout: list
     content:
