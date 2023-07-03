@@ -52,8 +52,13 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: test
+    layout: list
+    content:
+      - layout: top-middle
+        title: test
   - title: Research Interests
-    layout: top-middle
+    layout: text
     content: <mark>Consciousness</mark> <mark>Cognition</mark> <mark>Psychiatric Disorders</mark>
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -147,9 +152,7 @@ content:
           Description of qualification
       - layout: top-left
         title: Seoul Science High School
-        caption: 2013 - 2016
-        
-        ![alt text](/images/landscape-trees.jpg "Trees")
+        caption: 2013 - 2016 | # ![alt text](/images/landscape-trees.jpg "Trees")
         
         quote: >
           Short institution or course description (optional)
