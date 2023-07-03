@@ -151,9 +151,9 @@ content:
         title: Seoul Science High School
         caption: 2013 - 2016 
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: images/junseo.jpeg
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        content:
+          - layout: text
+            content: ![alt text](/images/landscape-trees.jpg "Trees")
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
