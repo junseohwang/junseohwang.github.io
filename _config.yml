@@ -50,7 +50,6 @@ about_content: | # this will include new lines to allow paragraphs
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
-    - [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0yHk19MsVWM&list=PLAGkQTD3IBkkCRKIo5PuCtWYQGe4sFrDP&index=4/0.jpg)](https://www.youtube.com/watch?v=0yHk19MsVWM&list=PLAGkQTD3IBkkCRKIo5PuCtWYQGe4sFrDP&index=4)
 
 content:
   - title: Research Interests
@@ -119,13 +118,14 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
+        title: The Way to Stockholm
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
+          ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0yHk19MsVWM/0.jpg)](https://www.youtube.com/watch?v=0yHk19MsVWM)
           Description of role
   - title: Education
     layout: list
