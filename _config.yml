@@ -117,7 +117,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: left
+      - layout: top-left
         title: Seoul National University
         sub_title: MSc in Brain & Cognitive Sciences
         caption: 2022 - present
@@ -125,15 +125,17 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-      - layout: left
+      - layout: top-left
         title: University of Oxford
         sub_title: BA in Neuroscience
         caption: 2016 - 2019
         quote: >
           Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
+          ![alt text](/images/junseo.jpg)
+          # this will include new lines to allow paragraphs
           Description of qualification
-      - layout: left
+      - layout: top-left
         title: Seoul Science High School
         caption: 2013 - 2016 
         additional_links:
