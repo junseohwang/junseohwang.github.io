@@ -155,7 +155,7 @@ content:
         quote: >
           Short description of the company (optional)
         description: | 
-          <div align="center">  
+          <div align="center" style="margin-left: 20px;"> 
             <a href="https://www.youtube.com/watch?v=0yHk19MsVWM">  
               <img src="https://img.youtube.com/vi/0yHk19MsVWM/0.jpg" alt="IMAGE ALT TEXT HERE">  
             </a>  
