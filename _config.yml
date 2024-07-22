@@ -52,7 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Research Interests
     layout: text
-    content:  <mark>Consciousnes<mark> <mark>Metacognition<mark> <mark>Mental imagery<mark> <mark>Neuroimaging<mark> <mark>Brain Stimulation<mark> <mark>Psychosis</mark>
+    content:  
+    ## Consciousnes Metacognition Mental imagery Neuroimaging Brain Stimulation Psychosis
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
