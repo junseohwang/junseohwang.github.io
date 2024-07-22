@@ -52,7 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Research Interests
     layout: text
-    content: Consciousnes Metacognition Mental imagery Neuroimaging Brain Stimulation Psychosis
+    content: 
+    - layout: left
+        title: Consciousnes Metacognition Mental imagery Neuroimaging Brain Stimulation Psychosis
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
