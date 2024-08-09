@@ -150,13 +150,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-left
-        title: University of Oxford
+        title:  |
+          <div style="font-size: 0.9em; text-align: center; font-size: 1em;">
+            University of Oxford
+            <div style="margin-top: 5px;">
+              <img src="/images/oxford_university.png" alt="University of Oxford Crest" style="width: 120px;">
+            </div>
+          </div>
         sub_title: BA in Neuroscience
         caption:  |
           2016 - 2019
-          <div style="text-align: center; margin-top: 10px;">
-              <img src="/images/oxford_university.png" alt="University of Oxford Crest" style="width: 120px;">
-          </div>
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
