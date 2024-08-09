@@ -136,42 +136,51 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: Seoul National University
-        sub_title: MSc in Brain & Cognitive Sciences
-        caption: | # this will include new lines to allow paragraphs
-          2022 - 2024 
-          <div style="float: left; margin-right: 10px;">
-            <img src="/images/Seoul_national_university.png" alt="Seoul National University Crest" style="width: 100px;">
+        title: |
+          <div style="font-size: 1.2em;">Seoul National University</div>
+        sub_title: |
+          <div style="text-align: center;">
+            MSc in Brain & Cognitive Sciences
+            <br>
+            2022 - 2024
+            <div style="margin-top: 10px;">
+              <img src="/images/seoul-national-university-crest.jpg" alt="Seoul National University Crest" style="width: 80px;">
+            </div>
           </div>
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        description: |
+          <div style="text-align: center;">
+            Description of qualification
+          </div>
       - layout: top-left
-        title: University of Oxford
-        sub_title: BA in Neuroscience
-        caption: | # this will include new lines to allow paragraphs
-          2016 - 2019
-          <div style="float: left; margin-right: 10px;">
-            <img src="/images/oxford_university.png" alt="Oxford University Crest" style="width: 120px;">
+        title: |
+          <div style="font-size: 1.2em;">University of Oxford</div>
+        sub_title: |
+          <div style="text-align: center;">
+            BA in Neuroscience
+            <br>
+            2016 - 2019
+            <div style="margin-top: 10px;">
+              <img src="/images/oxford-crest.jpg" alt="University of Oxford Crest" style="width: 80px;">
+            </div>
           </div>
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        description: |
+          <div style="text-align: center;">
+            Description of qualification
+          </div>
       - layout: top-left
-        title: Seoul Science High School
-        caption: | # this will include new lines to allow paragraphs
-          2013 - 2016 
-          <div style="float: left; margin-right: 10px;">
-            <img src="/images/Seoul_science_highschool.jpg" alt="Seoul Science High School Crest" style="width: 100px;">
+        title: |
+          <div style="font-size: 1.2em;">Seoul Science High School</div>
+        sub_title: |
+          <div style="text-align: center;">
+            2013 - 2016
+            <div style="margin-top: 10px;">
+              <img src="/images/seoul-science-high-school-crest.jpg" alt="Seoul Science High School Crest" style="width: 80px;">
+            </div>
           </div>
-        sub_title:
-        additional_links:
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        description: |
+          <div style="text-align: center;">
+            Description of qualification
+          </div>
   - title: Experience
     layout: list
     content:
