@@ -180,21 +180,15 @@ content:
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
         description: | 
-          <div align="center" style="margin-left: 100px;"> 
-            <a href="https://www.youtube.com/watch?v=W-YcPxJV8lk">  
-              <img src="https://img.youtube.com/vi/W-YcPxJV8lk/0.jpg" alt="IMAGE ALT TEXT HERE">  
-            </a>  
+          <div style="display: flex; flex-direction: column; align-items: center;">
+            <div style="margin-bottom: 20px;">
+              <img src="https://img.youtube.com/vi/W-YcPxJV8lk/0.jpg" alt="The Way to Stockholm" style="width: 100%; max-width: 600px;">
+            </div>
+            <div>
+              <img src="https://img.youtube.com/vi/0yHk19MsVWM/0.jpg" alt="The Way to Stockholm" style="width: 100%; max-width: 600px;">
+            </div>
           </div>
-       
-          <div align="center" style="margin-left: 20px;"> 
-            <a href="https://www.youtube.com/watch?v=0yHk19MsVWM">  
-              <img src="https://img.youtube.com/vi/0yHk19MsVWM/0.jpg" alt="IMAGE ALT TEXT HERE">  
-            </a>  
-          </div>
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
