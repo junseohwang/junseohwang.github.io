@@ -54,22 +54,22 @@ content:
     layout: text
     content: |
       <div style="text-align: center;">
-        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em;">
           Consciousness
         </span>
-        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em;">
           Metacognition
         </span>
-        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em;">
           Mental imagery
         </span>
-        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em;">
           Neuroimaging
         </span>
-        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em;">
           Brain Stimulation
         </span>
-        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em;">
           Psychosis
         </span>
       </div>
