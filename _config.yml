@@ -138,25 +138,19 @@ content:
       - layout: top-left
         title: Seoul National University
         sub_title: MSc in Brain & Cognitive Sciences
-        caption: 2022 - present
+        caption: 2022 - 2024
+        quote: >
+          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-        caption: |
-          2022 - 2024 
-          <div style="text-align: center; margin-top: 10px;">
-              <img src="/images/seoul-national-university-crest.jpg" alt="Seoul National University Crest" style="width: 100px;">
-          </div>
       - layout: top-left
         title: University of Oxford
         sub_title: BA in Neuroscience
         caption: 2016 - 2019
+        quote: >
+          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-        caption: |
-          2016 - 2019 
-          <div style="text-align: center; margin-top: 10px;">
-              <img src="/images/oxford-crest.jpg" alt="University of Oxford Crest" style="width: 120px;">
-          </div>
       - layout: top-left
         title: Seoul Science High School
         sub_title: 2013 - 2016
@@ -165,7 +159,7 @@ content:
         caption: |
           2013 - 2016 
           <div style="text-align: center; margin-top: 10px;">
-              <img src="/images/seoul-science-high-school-crest.jpg" alt="Seoul Science High School Crest" style="width: 100px;">
+              <img src="/images/profile.jpg" alt="Seoul Science High School Crest" style="width: 100px;">
           </div>
   - title: Experience
     layout: list
