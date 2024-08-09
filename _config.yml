@@ -146,10 +146,10 @@ content:
         sub_title: MSc in Brain & Cognitive Sciences
         caption: |
           <div style="text-align: center;">
-            2022 - 2024
+            Sep 2022 - Aug 2024
             <br>
             <a href="https://bcs.snu.ac.kr" target="_blank">
-              <i class="fa-solid fa-globe-pointer"></i> Visit School Website
+              <i class="fab fa-link"></i> Visit School Website
             </a>
           </div>
         quote: >
@@ -165,8 +165,14 @@ content:
             </div>
           </div>
         sub_title: BA in Neuroscience
-        caption:  |
-          2016 - 2019
+        caption: |
+          <div style="text-align: center;">
+            Oct 2016 - Aug 2019
+            <br>
+            <a href="https://www.medsci.ox.ac.uk/study/bms" target="_blank">
+              <i class="fab fa-link"></i> Visit School Website
+            </a>
+          </div>
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
@@ -182,7 +188,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
         caption: |
-          2013 - 2016 
+          <div style="text-align: center;">
+            Feb 2013 - Feb 2016 
+            <br>
+            <a href="http://en.sshs.hs.kr/html/index.php" target="_blank">
+              <i class="fab fa-link"></i> Visit School Website
+            </a>
+          </div>
   - title: Experience
     layout: list
     content:
