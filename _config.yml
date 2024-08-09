@@ -137,7 +137,7 @@ content:
     content:
       - layout: top-left
         title: |
-          <div style="font-size: 1.2em;">Seoul National University</div>
+          <div style="font-size: 0.8em;">Seoul National University</div>
         sub_title: |
           <div style="text-align: center;">
             MSc in Brain & Cognitive Sciences
@@ -153,7 +153,7 @@ content:
           </div>
       - layout: top-left
         title: |
-          <div style="font-size: 1.2em;">University of Oxford</div>
+          <div style="font-size: 0.8em;">University of Oxford</div>
         sub_title: |
           <div style="text-align: center;">
             BA in Neuroscience
@@ -169,7 +169,7 @@ content:
           </div>
       - layout: top-left
         title: |
-          <div style="font-size: 1.2em;">Seoul Science High School</div>
+          <div style="font-size: 0.8em;">Seoul Science High School</div>
         sub_title: |
           <div style="text-align: center;">
             2013 - 2016
