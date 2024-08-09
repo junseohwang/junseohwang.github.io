@@ -136,11 +136,15 @@ content:
     layout: list
     content:
       - layout: top-left
-        title:  |
-          <div style="font-size: 0.9em;">Seoul National University</div>
-        sub_title: MSc in Brain & Cognitive Sciences
+        title: Seoul National University
+        sub_title:  |
+          <div style="text-align: center; font-size: 1em;">
+              MSc in Brain & Cognitive Sciences
+          </div> 
         caption:  |
-          2022 - 2024
+          <div style="text-align: center; font-size: 1em;">
+              2022 - 2024
+          </div> 
           <div style="text-align: center; margin-top: 10px;">
               <img src="/images/Seoul_national_university.png" alt="Seoul National University Crest" style="width: 100px;">
           </div> 
@@ -149,8 +153,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-left
-        title:  |
-          <div style="font-size: 0.9em;">University of Oxford</div>
+        title: University of Oxford
         sub_title: BA in Neuroscience
         caption:  |
           2016 - 2019
@@ -162,8 +165,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-left
-        title:  |
-          <div style="font-size: 0.9em;">Seoul Science High School</div>
+        title: Seoul Science High School
         description: | # this will include new lines to allow paragraphs
           Description of qualification
         caption: |
