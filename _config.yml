@@ -144,7 +144,14 @@ content:
             </div>
           </div>
         sub_title: MSc in Brain & Cognitive Sciences
-        caption: 2022 - 2024
+        caption: |
+          <div style="text-align: center;">
+            2022 - 2024
+            <br>
+            <a href="https://bcs.snu.ac.kr" target="_blank">
+              <i class="fa-solid fa-globe-pointer"></i> Visit School Website
+            </a>
+          </div>
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
@@ -154,7 +161,7 @@ content:
           <div style="font-size: 1em; text-align: center; font-size: 1em;">
             University of Oxford
             <div style="margin-top: 5px;">
-              <img src="/images/oxford_university.png" alt="University of Oxford Crest" style="width: 120px;">
+              <img src="/images/oxford_university.png" alt="University of Oxford Crest" style="width: 130px;">
             </div>
           </div>
         sub_title: BA in Neuroscience
