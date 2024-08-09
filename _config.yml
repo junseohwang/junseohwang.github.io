@@ -132,43 +132,45 @@ content:
         description: | # this will include new lines to allow paragraphs
           The Psychosis Risk Outcomes Network (ProNET) is a research study that aims to better understand the causes and course of the earliest stages of psychosis, 
           focusing on the clinical high risk syndrome that sometimes progresses to first episode psychosis.
+  content:
   - title: Education
     layout: list
     content:
       - layout: top-left
-        title: |
-          <div style="font-size: 1em;">Seoul National University</div>
-        sub_title: |
-          MSc in Brain & Cognitive Sciences
-          2022 - 2024
+        title:  |
+          <div style="font-size: 0.9em;">Seoul National University</div>
+        sub_title: MSc in Brain & Cognitive Sciences
+        caption: 2022 - present
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+        caption: |
+          2022 - 2024 
           <div style="text-align: center; margin-top: 10px;">
-            <img src="/images/seoul-national-university-crest.jpg" alt="Seoul National University Crest" style="width: 80px;">
+              <img src="/images/seoul-national-university-crest.jpg" alt="Seoul National University Crest" style="width: 100px;">
           </div>
-        description: |
-            Description of qualification
       - layout: top-left
-        title: |
-          <div style="font-size: 1em;">University of Oxford</div>
-        sub_title: |
-          BA in Neuroscience
-          2016 - 2019
+        title:  |
+          <div style="font-size: 0.9em;">University of Oxford</div> 
+        sub_title: BA in Neuroscience
+        caption: 2016 - 2019
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+        caption: |
+          2016 - 2019 
           <div style="text-align: center; margin-top: 10px;">
-            <img src="/images/oxford-crest.jpg" alt="University of Oxford Crest" style="width: 80px;">
+              <img src="/images/oxford-crest.jpg" alt="University of Oxford Crest" style="width: 120px;">
           </div>
-        description: |
-            Description of qualification
       - layout: top-left
-        title: |
-          <div style="font-size: 1em;">Seoul Science High School</div>
-        sub_title: |
-          2013 - 2016
+        title:  |
+          <div style="font-size: 0.9em;">Seoul Science High School</div>
+        sub_title: 2013 - 2016
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+        caption: |
+          2013 - 2016 
           <div style="text-align: center; margin-top: 10px;">
-            <img src="/images/seoul-science-high-school-crest.jpg" alt="Seoul Science High School Crest" style="width: 80px;">
+              <img src="/images/seoul-science-high-school-crest.jpg" alt="Seoul Science High School Crest" style="width: 100px;">
           </div>
-        description: |
-          <div style="text-align: center;">
-            Description of qualification
-          </div>        
   - title: Experience
     layout: list
     content:
