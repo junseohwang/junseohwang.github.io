@@ -138,10 +138,11 @@ content:
           Description of qualification
       - layout: top-left
         title: Seoul Science High School
-        caption: 2013 - 2016 
-                  <div style="float: left; margin-right: 10px;">
-                    <img src="https://i.namu.wiki/i/Zw2oEYjrLwBR7krjU2X1InWjtFJWxZqtVjArRnBRpBTZRHmJCB-2yLlZFYyWpLlj8WHRuiWmbI9PBbFAWwzD5g.webp" alt="IMAGE ALT TEXT HERE">
-                  </div>
+        caption: | # this will include new lines to allow paragraphs
+          2013 - 2016 
+          <div style="float: left; margin-right: 10px;">
+            <img src="https://i.namu.wiki/i/Zw2oEYjrLwBR7krjU2X1InWjtFJWxZqtVjArRnBRpBTZRHmJCB-2yLlZFYyWpLlj8WHRuiWmbI9PBbFAWwzD5g.webp" alt="IMAGE ALT TEXT HERE">
+          </div>
         sub_title:
         additional_links:
         quote: >
