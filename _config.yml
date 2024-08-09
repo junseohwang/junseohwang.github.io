@@ -183,12 +183,16 @@ content:
         description: | 
           <div style="display: flex; flex-direction: column; align-items: center;">
             <div style="margin-bottom: 20px;">
-              <img src="https://img.youtube.com/vi/W-YcPxJV8lk/0.jpg" alt="The Way to Stockholm" style="width: 100%; max-width: 600px;">
+              <a href="https://www.youtube.com/watch?v=W-YcPxJV8lk" target="_blank">
+                <img src="https://img.youtube.com/vi/W-YcPxJV8lk/0.jpg" alt="The Way to Stockholm" style="width: 100%; max-width: 600px;">
+              </a>
             </div>
             <div>
-              <img src="https://img.youtube.com/vi/0yHk19MsVWM/0.jpg" alt="The Way to Stockholm" style="width: 100%; max-width: 600px;">
+              <a href="https://www.youtube.com/watch?v=0yHk19MsVWM" target="_blank">
+                <img src="https://img.youtube.com/vi/0yHk19MsVWM/0.jpg" alt="The Way to Stockholm" style="width: 100%; max-width: 600px;">
+              </a>
             </div>
-          </div>
+          </div>        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
