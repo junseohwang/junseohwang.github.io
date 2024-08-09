@@ -137,11 +137,11 @@ content:
     content:
       - layout: top-left
         title:  |
-          <div style="text-align: center; font-size: 1em;">
-              Seoul National University
-              <div style="text-align: center; margin-top: 10px;">
-                  <img src="/images/Seoul_national_university.png" alt="Seoul National University Crest" style="width: 100px;">
-              </div> 
+          <div style="font-size: 0.9em; font-size: 1em;">
+            Seoul National University
+            <div style="margin-top: 10px;">
+              <img src="/images/Seoul_national_university.png" alt="Seoul National University Crest" style="width: 100px;">
+            </div>
           </div>
         sub_title: MSc in Brain & Cognitive Sciences
         caption: 2022 - 2024
