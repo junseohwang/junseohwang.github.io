@@ -54,8 +54,23 @@ content:
     layout: text
     content: |
       <div style="text-align: center;">
-        <span style="font-size: 2em; font-weight: bold;">
-          Consciousness, Metacognition, Mental imagery, Neuroimaging, Brain Stimulation, Psychosis
+        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+          Consciousness
+        </span>
+        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+          Metacognition
+        </span>
+        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+          Mental imagery
+        </span>
+        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+          Neuroimaging
+        </span>
+        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+          Brain Stimulation
+        </span>
+        <span style="background-color: black; color: white; padding: 0.2em 0.4em;">
+          Psychosis
         </span>
       </div>
   - title: Research Experience # Title for the section
