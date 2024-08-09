@@ -136,13 +136,16 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: Seoul National University
-        sub_title:  |
+        title:  |
           <div style="text-align: center; font-size: 1em;">
+              Seoul National University
+          </div> 
+        sub_title:  |
+          <div style="text-align: center; font-size: 1.2em;">
               MSc in Brain & Cognitive Sciences
           </div> 
         caption:  |
-          <div style="text-align: center; font-size: 1em;">
+          <div style="text-align: center; font-size: 1.2em;">
               2022 - 2024
           </div> 
           <div style="text-align: center; margin-top: 10px;">
