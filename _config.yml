@@ -222,11 +222,9 @@ content:
         caption: Jan 2021 - Jul 2022
         link: Link to company (optional)
         description: |   
+          Assisted in research focused on military leadership and strategic studies. Contributed to the development of training materials and conducted field studies with cadets.
           <div style="text-align: center;">
-            <img src="/images/KAAY_with_cadets.JPG" alt="KAAY with cadets" style="width: 100%; max-width: 300px; margin-top: 10px;">
-          </div>
-          <div style="text-align: justify; margin-top: 10px;">
-            Assisted in research focused on military leadership and strategic studies. Contributed to the development of training materials and conducted field studies with cadets.
+            <img src="/images/KAAY_with_cadets.JPG" alt="KAAY with cadets" style="width: 200%; max-width: 300px; margin-top: 10px;">
           </div>
   - title: A Little More About Me
     layout: text
