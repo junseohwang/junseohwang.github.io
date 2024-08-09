@@ -53,14 +53,8 @@ content:
   - title: Research Interests
     layout: text
     content: 
-    - layout: text
-      content: |
-      - **Consciousnes**
-      - **Metacognition**
-      - **Mental imagery**
-      - **Neuroimaging**
-      - **Brain Stimulation**
-      - **Psychosis**
+    - layout: left
+      content: "Consciousness, Metacognition, Mental imagery, Neuroimaging, Brain Stimulation, Psychosis"
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
