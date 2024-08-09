@@ -54,7 +54,7 @@ content:
     layout: text
     content: 
     - layout: left
-        title: Consciousnes Metacognition Mental imagery Neuroimaging Brain Stimulation Psychosis
+      description: "Consciousnes, Metacognition, Mental imagery, Neuroimaging, Brain Stimulation, Psychosis"
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -193,7 +193,7 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-exclude: [
+exclude : [
   "Gemfile",
   "Gemfile.lock",
   "node_modules",
