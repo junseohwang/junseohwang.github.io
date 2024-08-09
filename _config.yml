@@ -147,8 +147,7 @@ content:
               <img src="/images/seoul-national-university-crest.jpg" alt="Seoul National University Crest" style="width: 100px;">
           </div>
       - layout: top-left
-        title:  |
-          <div style="font-size: 0.9em;">University of Oxford</div> 
+        title: University of Oxford
         sub_title: BA in Neuroscience
         caption: 2016 - 2019
         description: | # this will include new lines to allow paragraphs
@@ -159,8 +158,7 @@ content:
               <img src="/images/oxford-crest.jpg" alt="University of Oxford Crest" style="width: 120px;">
           </div>
       - layout: top-left
-        title:  |
-          <div style="font-size: 0.9em;">Seoul Science High School</div>
+        title: Seoul Science High School
         sub_title: 2013 - 2016
         description: | # this will include new lines to allow paragraphs
           Description of qualification
