@@ -145,7 +145,7 @@ content:
         caption: | # this will include new lines to allow paragraphs
           2013 - 2016 
           <div style="float: left; margin-right: 10px;">
-            <img src="https://i.namu.wiki/i/Zw2oEYjrLwBR7krjU2X1InWjtFJWxZqtVjArRnBRpBTZRHmJCB-2yLlZFYyWpLlj8WHRuiWmbI9PBbFAWwzD5g.webp" alt="IMAGE ALT TEXT HERE">
+            <img src="/images/Seoul_science_highschool.jpg" alt="Seoul Science High School Crest" style="width: 100px;">
           </div>
         sub_title:
         additional_links:
