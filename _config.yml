@@ -145,9 +145,6 @@ content:
           </div>
         sub_title: MSc in Brain & Cognitive Sciences
         caption: 2022 - 2024
-          <div style="text-align: center; margin-top: 10px;">
-              <img src="/images/Seoul_national_university.png" alt="Seoul National University Crest" style="width: 100px;">
-          </div> 
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
