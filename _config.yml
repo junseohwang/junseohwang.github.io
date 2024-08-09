@@ -132,7 +132,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           The Psychosis Risk Outcomes Network (ProNET) is a research study that aims to better understand the causes and course of the earliest stages of psychosis, 
           focusing on the clinical high risk syndrome that sometimes progresses to first episode psychosis.
-  content:
   - title: Education
     layout: list
     content:
