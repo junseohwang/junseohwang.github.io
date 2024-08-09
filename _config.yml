@@ -123,7 +123,11 @@ content:
       - layout: top-left
         title: Seoul National University
         sub_title: MSc in Brain & Cognitive Sciences
-        caption: 2022 - present
+        caption: | # this will include new lines to allow paragraphs
+          2022 - 2024 
+          <div style="float: left; margin-right: 10px;">
+            <img src="https://www.snu.ac.kr/webdata/uploads/kor/image/2019/12/about-symbol-bi_lg.png" alt="IMAGE ALT TEXT HERE">
+          </div>
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
