@@ -137,7 +137,7 @@ content:
     content:
       - layout: top-left
         title:  |
-          <div style="font-size: 0.9em; text-align: center; font-size: 1em;">
+          <div style="font-size: 1em; text-align: center; font-size: 1em;">
             Seoul National University
             <div style="margin-top: 5px;">
               <img src="/images/Seoul_national_university.png" alt="Seoul National University Crest" style="width: 100px;">
@@ -151,7 +151,7 @@ content:
           Description of qualification
       - layout: top-left
         title:  |
-          <div style="font-size: 0.9em; text-align: center; font-size: 1em;">
+          <div style="font-size: 1em; text-align: center; font-size: 1em;">
             University of Oxford
             <div style="margin-top: 5px;">
               <img src="/images/oxford_university.png" alt="University of Oxford Crest" style="width: 120px;">
@@ -165,14 +165,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-left
-        title: Seoul Science High School
+        title:  |
+          <div style="font-size: 1em; text-align: center; font-size: 1em;">
+            Seoul Science High School
+            <div style="margin-top: 5px;">
+              <img src="/images/Seoul_science_highschool.jpg" alt="Seoul Science High School Crest" style="width: 100px;">
+            </div>
+          </div> 
         description: | # this will include new lines to allow paragraphs
           Description of qualification
         caption: |
           2013 - 2016 
-          <div style="text-align: center; margin-top: 10px;">
-              <img src="/images/Seoul_science_highschool.jpg" alt="Seoul Science High School Crest" style="width: 100px;">
-          </div>
   - title: Experience
     layout: list
     content:
