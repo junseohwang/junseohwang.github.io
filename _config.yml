@@ -215,7 +215,13 @@ content:
                 <img src="https://img.youtube.com/vi/0yHk19MsVWM/0.jpg" alt="The Way to Stockholm" style="width: 100%; max-width: 600px;">
               </a>
             </div>
-          </div>        
+          </div>  
+      - layout: left
+        title: Korean Army Academy at Yeongcheon
+        sub_title: Research Assistant
+        caption: Jan 2021 - Jul 2022
+        link: Link to company (optional)
+        description: |   
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
