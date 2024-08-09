@@ -126,7 +126,7 @@ content:
         caption: | # this will include new lines to allow paragraphs
           2022 - 2024 
           <div style="float: left; margin-right: 10px;">
-            <img src="/images/profile.jpg" alt="Seoul National University Crest" style="width: 100px;">
+            <img src="/images/Seoul_national_university.png" alt="Seoul National University Crest" style="width: 100px;">
           </div>
         quote: >
           Short institution or course description (optional)
