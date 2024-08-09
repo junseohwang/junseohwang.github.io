@@ -137,9 +137,9 @@ content:
     content:
       - layout: top-left
         title:  |
-          <div style="font-size: 0.9em; font-size: 1em;">
+          <div style="font-size: 0.9em; text-align: center; font-size: 1em;">
             Seoul National University
-            <div style="margin-top: 10px;">
+            <div style="margin-top: 5px;">
               <img src="/images/Seoul_national_university.png" alt="Seoul National University Crest" style="width: 100px;">
             </div>
           </div>
