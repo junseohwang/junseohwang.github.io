@@ -54,22 +54,22 @@ content:
     layout: text
     content: |
       <div style="text-align: center;">
-        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap; border-radius: 8px; display: inline-block;">
           Consciousness
         </span>
-        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap; border-radius: 8px; display: inline-block;">
           Metacognition
         </span>
-        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap; border-radius: 8px; display: inline-block;">
           Mental imagery
         </span>
-        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap; border-radius: 8px; display: inline-block;">
           Neuroimaging
         </span>
-        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap; border-radius: 8px; display: inline-block;">
           Brain Stimulation
         </span>
-        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap;">
+        <span style="background-color: black; color: white; padding: 0.3em 0.6em; font-size: 1.5em; margin: 0.2em; white-space: nowrap; border-radius: 8px; display: inline-block;">
           Psychosis
         </span>
       </div>
