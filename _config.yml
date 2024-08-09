@@ -53,13 +53,11 @@ content:
   - title: Research Interests
     layout: text
     content: |
-      {% raw %}
       <div style="text-align: center;">
         <span style="font-size: 1.5em; font-weight: bold;">
           Consciousness, Metacognition, Mental imagery, Neuroimaging, Brain Stimulation, Psychosis
         </span>
       </div>
-      {% endraw %}
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
