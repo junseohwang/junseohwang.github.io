@@ -8,8 +8,10 @@ version: 2
 # Personal info
 name: Jun Seo Hwang
 title: |
-  Research Assistant at Institute for Basic Science, Center for Neuroscience Imaging Research.
-  Aspiring PhD Candidate.
+  <div style="max-width: 900px; margin: 0 auto;">
+    Research Assistant at Institute for Basic Science, Center for Neuroscience Imaging Research.
+    <br>Aspiring PhD Candidate.
+  </div>
 email: junseohwang0310@google.com
 # email_title: Email (Email title override)
 phone: +82) 10-7405-3470
